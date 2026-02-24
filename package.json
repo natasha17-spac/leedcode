@@ -1,0 +1,26 @@
+{
+  "name": "leedcode",
+  "version": "1.0.0",
+  "main": "100.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natasha17-spac/leedcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natasha17-spac/leedcode/issues"
+  },
+  "homepage": "https://github.com/natasha17-spac/leedcode#readme",
+  "description": "",
+  "dependencies": {
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "prettier": "3.8.1"
+  }
+}
